@@ -6,7 +6,7 @@ Develop a website highlighting the public GitHub repositories of a specified use
 
 This webpage showcases a GitHub user's public repositories using the GitHub REST API, presenting the information in a paginated and searchable format for easy exploration and access.
 
-## LIVE Demo - [Click here]https://fyleproject.netlify.app/
+## LIVE Demo - [Click here](https://fyleproject.netlify.app/)
 
 ### References & Requirements
 

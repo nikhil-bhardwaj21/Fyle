@@ -1,4 +1,4 @@
-# GitHub Repositories Listing Page
+# GitHub Repositories Showcase
 
 Develop a website highlighting the public GitHub repositories of a specified user.
 

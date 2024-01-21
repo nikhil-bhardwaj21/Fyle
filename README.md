@@ -1,19 +1,19 @@
 # GitHub Repositories Listing Page
 
-Design a website that displays the public GitHub repositories belonging to any specific user.
+Develop a website highlighting the public GitHub repositories of a specified user.
 
 ## Description
 
-This project is a web page designed to showcase public GitHub repositories for a specified user. It utilizes the GitHub REST API to fetch repository information and presents it in a paginated and searchable format.
+This webpage showcases a GitHub user's public repositories using the GitHub REST API, presenting the information in a paginated and searchable format for easy exploration and access.
 
-## LIVE Demo - [Click here](https://khushitayal.github.io/fyle_githubRepo/)
+## LIVE Demo - [Click here]https://fyleproject.netlify.app/
 
 ### References & Requirements
 
-- [GitHub REST API Documentation](https://docs.github.com/en/rest/reference)
-- Each repository can have multiple topics. View the [example image](screenshots/repository-topic.png) for reference.
-- Pagination is server-side, displaying 10 repositories per page by default, with an option to choose up to 100 repositories per page.
-- Loading indicators are shown during API calls. A search bar is provided to filter repositories.
+- GitHub REST API Documentation
+- Each repository may have multiple topics. Refer to the example image for guidance.
+- Pagination is handled server-side, displaying 10 repositories per page by default, with an option to choose up to 100 repositories per page.
+- Loading indicators are presented during API calls, and a search bar facilitates repository filtering.
 
 ## Usage
 
@@ -24,7 +24,7 @@ This project is a web page designed to showcase public GitHub repositories for a
 
 ## Features
 
-- Paginated repositories with server-side pagination.
+- Server-side paginated repositories.
 - Loading indicators during API calls.
 - Search bar for repository filtering.
 
@@ -33,4 +33,4 @@ This project is a web page designed to showcase public GitHub repositories for a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KhushiTayal/fyle_githubRepo.git
+   git clone https://github.com/nikhil-bhardwaj21/Fyle.git
